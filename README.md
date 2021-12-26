@@ -5,7 +5,8 @@
 # T-framework
 Basic Tkinter Framework for Python GUI
 
-##Features
+## Features
+
 - Easy Debugging for GUI
 - Light and Dark Title Bar
 - Inbuilt Themes
@@ -13,14 +14,14 @@ Basic Tkinter Framework for Python GUI
 - Angular Gradients 
 - Circular Gradients 
 
-##To-Do
+## To-Do
 - Automatic Updates
 - Installer Creator
 - Testing Channel Creation
 - Crash Reporting
 - Get System Preffered Color
 
-##Documentation
+## Documentation
 Documentation for this project is available at https://t-framework.ml/docs
 
 ### Special Mention:
