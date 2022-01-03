@@ -31,3 +31,9 @@ Documentation for this project is available at https://t-framework.ml/docs
 - BlurWindow
 - Pytkfaicons
 
+## Upcoming Features
+- Inbulilt collaboration with features from other frameworks(PySimpleGUI,DearPyGui and PyQt)
+- Support Android Dev with AndroTk
+- Add better effects on apps with pyopengltk
+- Access windows/mac/linux default settings and sounds directly
+- Enable/Disable modules [as in apache]
