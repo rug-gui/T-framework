@@ -22,7 +22,7 @@ Basic Tkinter Framework for Python GUI
 - Get System Preffered Color
 
 ## Documentation
-Documentation for this project is available at https://t-framework.ml/docs
+Documentation for this project is available at https://t-framework.tk
 
 ### Special Mention:
 - rdbende (for amazing Ttk Themes)
