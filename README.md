@@ -19,6 +19,7 @@ Basic Tkinter Framework for Python GUI
 - Installer Creator
 - Testing Channel Creation
 - Crash Reporting
+- Analytics
 - Get System Preffered Color
 
 ## Documentation
