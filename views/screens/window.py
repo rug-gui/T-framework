@@ -33,7 +33,7 @@ def button_function():
     print("button pressed")
 
 # Use CTkButton instead of tkinter Button
-button = Label(master=app,text='Testing123')
+button = Label(master=app,text='Welcome to Rug')
 button.place(relx=0.5, rely=0.5, anchor=CENTER)
 
 ttk.Button(app,text='Hello World').pack()
