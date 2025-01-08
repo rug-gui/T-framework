@@ -8,6 +8,7 @@ Basic Tkinter Framework for Python GUI
 ## Features
 
 - Easy Debugging for GUI
+- Hot Reload
 - Light and Dark Title Bar
 - Inbuilt Themes
 - Linear Gradients 
